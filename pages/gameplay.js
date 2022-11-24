@@ -9,11 +9,11 @@ export default function Gameplay() {
       <p>goes a long way toward encouraging those gameplay modes to exist and be pursued</p>
       <p>For example: This website looks pretty bare-bones.</p>
       <p>What would you do to make it look nicer?</p>
-      <p>Are there areas where it looks like I don't know what I'm doing?</p>
-      <p>(I don't)</p>
+      <p>Are there areas where it looks like I don&apos;t know what I&apos;m doing?</p>
+      <p>(I don&apos;t)</p>
       <p>Our win condition is we both look extremely cool and smart</p>
       <p>With a whole bunch of sage advice and fun activities</p>
-      <p>I can't get there alone.</p>
+      <p>I can&apos;t get there alone.</p>
     </div>
   )
 }

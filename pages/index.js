@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link';
 
@@ -19,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           The game where we all score points by{' '}
-          <code className={styles.code}>improving each other's lives!</code>
+          <code className={styles.code}>improving each other&apos;s lives!</code>
         </p>
 
         <div className={styles.grid}>

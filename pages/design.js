@@ -11,9 +11,9 @@ export default function Design() {
       <p>Unfortunately, not all combinatorial effects are necessarily helpful.</p>
       <p>That is why one way to be a social creature that helps other creatures be social</p>
       <p>is to eliminate potential ways of being by rendering them anti-social.</p>
-      <p>This is known as "setting boundaries", and is often regarded as important.</p>
+      <p>This is known as &quot;setting boundaries&quot;, and is often regarded as important.</p>
       <p>Unfortunately, existing as a social creature is the most difficult thing it is possible to do.</p>
-      <p>Fortunately, it means you're not alone.</p>
+      <p>Fortunately, it means you&apos;re not alone.</p>
     </div>
   )
 }

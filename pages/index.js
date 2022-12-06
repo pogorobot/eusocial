@@ -28,8 +28,8 @@ export default function Home() {
           </Link>
 
           <Link href={`/verbs`} className={styles.card}>
-            <h2>VERBS</h2>
-            <p>When you click on them, they accomplish various things! Wow!</p>
+            <h2>GUYS</h2>
+            <p>They're just littel guys. Please be nice to them okay??</p>
           </Link>
 
           <Link href={`/design`} className={styles.card}>

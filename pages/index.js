@@ -27,7 +27,7 @@ export default function Home() {
             <p>This is the first thing we expect you to click on!</p>
           </Link>
 
-          <Link href={`/verbs`} className={styles.card}>
+          <Link href={`/guys`} className={styles.card}>
             <h2>GUYS</h2>
             <p>They&apos;re just littel guys. Please be nice to them okay??</p>
           </Link>

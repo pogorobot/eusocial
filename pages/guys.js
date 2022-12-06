@@ -34,7 +34,7 @@ export default function Guys(props) {
 
   return (
     <div>
-      <h1>Li'l Guys</h1>
+      <h1>Li&apos;l Guys</h1>
       <Meeple name="Sven" hunger={25} thirst={60} />
       <Meeple name="Bartholomew" hunger={80} thirst={17} />
       {props.guys.map((guy) => 
